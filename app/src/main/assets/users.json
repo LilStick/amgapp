@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Lewis Hamilton",
+    "email": "lewis@f1.com",
+    "username": "lewish44",
+    "password": "champ44"
+  },
+  {
+    "id": 2,
+    "name": "George Russell",
+    "email": "george@f1.com",
+    "username": "georger63",
+    "password": "speed63"
+  }
+]
